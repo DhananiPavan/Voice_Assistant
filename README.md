@@ -1,3 +1,24 @@
-The Python Voice Assistant project is a simplified AI-powered application designed to simulate the core functionalities of Apple Siri. It allows users to interact with their computer using natural voice commands, enabling hands-free control and smart assistance. Built using Python, the assistant can listen to user input, understand voice commands, and perform actions such as playing music on YouTube, telling the current time, opening applications or websites, and even generating intelligent responses using OpenAI's GPT model.
+# 🗣️ Python Voice Assistant – Mini Siri
 
-The assistant uses libraries like speech_recognition for capturing and converting speech to text, pyttsx3 for generating voice responses, pywhatkit and webbrowser for performing tasks, and openai for integrating natural language understanding. The project offers a foundational framework for voice-controlled automation and can be extended with features like reminders, weather updates, or smart home control.
+A Python-based voice assistant inspired by Apple Siri. This project allows users to interact with their computer using voice commands for tasks like playing music, checking time, opening apps/websites, and getting smart replies using OpenAI's GPT model.
+
+---
+
+## 🚀 Features
+
+- 🎤 Voice recognition using speech_recognition
+- 🔊 Text-to-speech using pyttsx3
+- 🎶 Play songs from YouTube
+- 🌐 Open websites like Google, YouTube
+- 🕒 Tell current time
+- 🤖 Smart replies via OpenAI GPT-3.5/4
+- 🛑 Exit on command
+
+---
+
+## 📦 Requirements
+
+Install Python 3.8 or above, then run:
+
+```bash
+pip install -r requirements.txt

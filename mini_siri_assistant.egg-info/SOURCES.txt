@@ -1,0 +1,9 @@
+README.md
+setup.py
+mini_siri_assistant.egg-info/PKG-INFO
+mini_siri_assistant.egg-info/SOURCES.txt
+mini_siri_assistant.egg-info/dependency_links.txt
+mini_siri_assistant.egg-info/requires.txt
+mini_siri_assistant.egg-info/top_level.txt
+src/__init__.py
+src/Voice_Assistance/__init__.py
