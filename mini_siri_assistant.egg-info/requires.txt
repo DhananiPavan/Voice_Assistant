@@ -4,3 +4,6 @@ pywhatkit
 openai
 python-dotenv
 pyaudio
+screen-brightness-control
+pycaw
+comtypes

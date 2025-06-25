@@ -11,7 +11,11 @@ setup(
         "pywhatkit",
         "openai",
         "python-dotenv",
-        "pyaudio"
+        "pyaudio",
+        "screen-brightness-control",
+        "pycaw",
+        "comtypes",
+
     ],
     packages=find_packages()
 )

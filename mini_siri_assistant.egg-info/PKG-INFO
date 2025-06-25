@@ -9,6 +9,9 @@ Requires-Dist: pywhatkit
 Requires-Dist: openai
 Requires-Dist: python-dotenv
 Requires-Dist: pyaudio
+Requires-Dist: screen-brightness-control
+Requires-Dist: pycaw
+Requires-Dist: comtypes
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
